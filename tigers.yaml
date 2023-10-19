@@ -1,6 +1,10 @@
 team : tigers
 
+<<<<<<< HEAD
 manager : kenneth
+=======
+manager : deborah
+>>>>>>> conflict-1
 
 coach : grace
 
